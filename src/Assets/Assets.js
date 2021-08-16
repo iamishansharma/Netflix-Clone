@@ -1,3 +1,5 @@
+import Logo from "./assets/Logo.png";
+
 export const Assets = {
-  Logo: require("./assets/Logo.png"),
+  NFLogo: Logo,
 };
